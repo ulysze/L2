@@ -1,2 +1,2 @@
-# L2 (squared)
+# L2
 Logical Latency
